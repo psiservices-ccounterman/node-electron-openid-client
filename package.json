@@ -48,9 +48,10 @@
     "jose": "^4.10.0",
     "lru-cache": "^6.0.0",
     "object-hash": "^2.0.1",
-    "oidc-token-hash": "^5.0.1"
+      "oidc-token-hash": "^5.0.1",
   },
   "devDependencies": {
+    "electron": "23.1.1",
     "@types/node": "^16.11.5",
     "@types/passport": "^1.0.7",
     "base64url": "^3.0.1",
